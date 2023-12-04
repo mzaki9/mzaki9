@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaki</h1>
 <h3 align="center">A passionate CS Student from Indonesia</h3>
-<div style="width:80%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/fUXZfIDUl8K7lJJ9KK" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evite-rocket-outer-space-rocketship-fUXZfIDUl8K7lJJ9KK">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzaki9&label=Profile%20views&color=0e75b6&style=flat" alt="mzaki9" /> </p>
 
